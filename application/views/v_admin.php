@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Admin</title>
+	<title>Abhjnkml,;./dmin</title>
 </head>
 <body>
 <div class="content-wrapper">
